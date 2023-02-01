@@ -5738,8 +5738,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hi ! Welcome to my VR roon, I was forced to make this idk what to say.
-    \n\nAgree to the terms and conditions --> "
+  m_text: "Hi ! Welcome to my VR roon, I dunno what to say\n   -\\(*~*)/-\n\nAgree
+    to the terms and conditions --> "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 18eb93125c4dc48309f35bea3f9afe65, type: 2}
   m_sharedMaterial: {fileID: -8672605235374421519, guid: 18eb93125c4dc48309f35bea3f9afe65, type: 2}
